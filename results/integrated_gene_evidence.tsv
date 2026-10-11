@@ -1,0 +1,7 @@
+locus_id	sentinel_variant	gene	fine_mapped_locus	twas_bonferroni_support	coloc_pp4_ge_0.80	pops_top_rank	functional_annotation_support	nearest_gene	evidence_count	priority_tier	claim_ceiling
+L1	rsSYN101	GENE_A	1	1	1	1	1	1	4	high_priority_follow_up	Convergent prioritization for follow-up; not proof that the gene is causal or druggable
+L2	rsSYN201	GENE_C	1	1	1	1	1	0	4	high_priority_follow_up	Convergent prioritization for follow-up; not proof that the gene is causal or druggable
+L3	rsSYN301	GENE_F	1	1	1	1	0	0	3	high_priority_follow_up	Convergent prioritization for follow-up; not proof that the gene is causal or druggable
+L3	rsSYN301	GENE_E	1	1	0	0	1	1	2	moderate_priority_follow_up	Convergent prioritization for follow-up; not proof that the gene is causal or druggable
+L2	rsSYN201	GENE_D	1	0	0	0	1	1	1	exploratory	Convergent prioritization for follow-up; not proof that the gene is causal or druggable
+L1	rsSYN101	GENE_B	1	0	0	0	0	0	0	exploratory	Convergent prioritization for follow-up; not proof that the gene is causal or druggable

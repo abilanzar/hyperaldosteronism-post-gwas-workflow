@@ -1,0 +1,10 @@
+metric	value	interpretation
+n	500	synthetic target sample size
+cases	58	synthetic case count
+prs_log_or_per_sd	0.664720075416848	association estimate, not causality
+prs_se	0.153908569310377	model uncertainty
+prs_p	1.56788705986317e-05	association test
+prs_or_per_sd	1.94394628681407	odds ratio per SD in this synthetic target
+auc_covariates	0.591863005149009	apparent discrimination
+auc_covariates_plus_prs	0.695818380402559	apparent discrimination with PRS
+delta_auc	0.10395537525355	incremental apparent AUC; external validation required

@@ -1,0 +1,3 @@
+analysis	trait_1	trait_2	estimate	se	z	p	status	interpretation_ceiling	notes
+h2_observed	synthetic_ha		0.0850	0.0200	4.2500	2.13771e-05	PASS	Common-variant heritability conditional on QC and scale assumptions	synthetic demo checks passed
+genetic_correlation	synthetic_ha	synthetic_blood_pressure	0.3100	0.0900	3.4444	0.000572234	PASS	Shared polygenic architecture; not causality	synthetic demo checks passed

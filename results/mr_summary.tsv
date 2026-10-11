@@ -1,0 +1,4 @@
+method	n_instruments	estimate	se	p	q	q_df	q_p	interpretation_ceiling
+IVW	6	0.273888196797864	0.0524425877378235	1.76400273791507e-07	0.250973020458164	5	0.998464869623915	Causal evidence only if MR assumptions hold
+MR_Egger_slope	6	0.417221049160174	0.0382080183468831	0.000399397394560062				Pleiotropy-robust sensitivity estimate with lower precision
+MR_Egger_intercept	6	-0.0151443433964335	0.00398492191089311	0.0190968988117913				Directional-pleiotropy diagnostic, not a causal effect
